@@ -1,0 +1,15 @@
+E:\Educat\examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.exe
+E:\Educat\examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.deps.json
+E:\Educat\examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.runtimeconfig.json
+E:\Educat\examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.dll
+E:\Educat\examples\ex001_HelloConsole\bin\Debug\net6.0\ex001_HelloConsole.pdb
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.csproj.AssemblyReference.cache
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.AssemblyInfoInputs.cache
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.AssemblyInfo.cs
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.csproj.CoreCompileInputs.cache
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.dll
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\refint\ex001_HelloConsole.dll
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.pdb
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ex001_HelloConsole.genruntimeconfig.cache
+E:\Educat\examples\ex001_HelloConsole\obj\Debug\net6.0\ref\ex001_HelloConsole.dll
