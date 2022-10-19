@@ -1,4 +1,4 @@
-﻿// 
+﻿// найти позицию заданного числа
 
 void FillArray(int[] collection)
 {
